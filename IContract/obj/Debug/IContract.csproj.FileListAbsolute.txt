@@ -1,0 +1,8 @@
+E:\source\repos\IContract\bin\Debug\IContract.dll.config
+E:\source\repos\IContract\bin\Debug\IContract.dll
+E:\source\repos\IContract\bin\Debug\IContract.pdb
+E:\source\repos\IContract\obj\Debug\IContract.csproj.CoreCompileInputs.cache
+E:\source\repos\IContract\obj\Debug\IContract.csproj.Fody.CopyLocal.cache
+E:\source\repos\IContract\obj\Debug\IContract.dll
+E:\source\repos\IContract\obj\Debug\IContract.pdb
+E:\source\repos\IContract\obj\Debug\IContract.csproj.AssemblyReference.cache

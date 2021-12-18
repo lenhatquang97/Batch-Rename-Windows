@@ -1,0 +1,141 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\source\\repos\\BatchRenameUI\\BatchRenameUI.csproj": {}
+  },
+  "projects": {
+    "E:\\source\\repos\\BatchRenameUI\\BatchRenameUI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\source\\repos\\BatchRenameUI\\BatchRenameUI.csproj",
+        "projectName": "BatchRenameUI",
+        "projectPath": "E:\\source\\repos\\BatchRenameUI\\BatchRenameUI.csproj",
+        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+        "outputPath": "E:\\source\\repos\\BatchRenameUI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0-windows7.0": {
+            "targetAlias": "net5.0-windows",
+            "projectReferences": {
+              "E:\\source\\repos\\IContract\\IContract.csproj": {
+                "projectPath": "E:\\source\\repos\\IContract\\IContract.csproj"
+              },
+              "E:\\source\\repos\\JsonLogic\\JsonLogic.csproj": {
+                "projectPath": "E:\\source\\repos\\JsonLogic\\JsonLogic.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "dependencies": {
+            "Fluent.Ribbon": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            },
+            "MaterialDesignThemes": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "Ookii.Dialogs.Wpf": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "PropertyChanged.Fody": {
+              "target": "Package",
+              "version": "[3.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\source\\repos\\IContract\\IContract.csproj": {
+      "restore": {
+        "projectUniqueName": "E:\\source\\repos\\IContract\\IContract.csproj",
+        "projectName": "IContract",
+        "projectPath": "E:\\source\\repos\\IContract\\IContract.csproj"
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "E:\\source\\repos\\JsonDao\\JsonDao.csproj": {
+      "restore": {
+        "projectUniqueName": "E:\\source\\repos\\JsonDao\\JsonDao.csproj",
+        "projectName": "JsonDao",
+        "projectPath": "E:\\source\\repos\\JsonDao\\JsonDao.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {
+              "E:\\source\\repos\\IContract\\IContract.csproj": {
+                "projectPath": "E:\\source\\repos\\IContract\\IContract.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "E:\\source\\repos\\JsonLogic\\JsonLogic.csproj": {
+      "restore": {
+        "projectUniqueName": "E:\\source\\repos\\JsonLogic\\JsonLogic.csproj",
+        "projectName": "JsonLogic",
+        "projectPath": "E:\\source\\repos\\JsonLogic\\JsonLogic.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {
+              "E:\\source\\repos\\IContract\\IContract.csproj": {
+                "projectPath": "E:\\source\\repos\\IContract\\IContract.csproj"
+              },
+              "E:\\source\\repos\\JsonDao\\JsonDao.csproj": {
+                "projectPath": "E:\\source\\repos\\JsonDao\\JsonDao.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    }
+  }
+}

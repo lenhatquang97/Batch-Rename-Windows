@@ -1,0 +1,18 @@
+{
+    "anotherExtension": "",
+    "counter": {
+        "start": 0,
+        "step": 0
+    },
+    "trimSpace": false,
+    "trimRedundantSpace": false,
+    "noSpace": false,
+    "replaceString": {
+        "from": "",
+        "to": ""
+    },
+    "prefix": "",
+    "suffix": "",
+    "toLowerCaseAndRemoveSpace": false,
+    "toPascalCase": false
+}
