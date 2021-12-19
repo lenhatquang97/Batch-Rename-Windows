@@ -147,7 +147,6 @@ namespace BatchRenameUI
             RuleComboBox.ItemsSource = renameLogic.notUsedSlots();
             MyListBox.ItemsSource = renameLogic.usedSlots();
         }
-
         private async void ButtonRenameAndCreateCopy_Click(object sender, RoutedEventArgs e)
         {
             await Task.Run(() => {
@@ -155,7 +154,6 @@ namespace BatchRenameUI
             });
             
         }
-
         private async void ButtonRecursiveAdd_Click(object sender, RoutedEventArgs e)
         {
             var openFolderDialog = new VistaFolderBrowserDialog();
@@ -170,8 +168,8 @@ namespace BatchRenameUI
                     renameLogic.RecursiveAddAllFiles(Items, path, thread);
                 });
                 
-                
             }
+            
         }
     }
 }

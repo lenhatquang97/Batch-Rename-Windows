@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToLowerCaseAndRemoveSpaceRu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToPascalCaseRule", "..\ToPascalCaseRule\ToPascalCaseRule.csproj", "{0ECF43F0-FB38-417B-8E22-912F20DFEB37}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NamingConventionExtendedRule", "..\NamingConventionExtendedRule\NamingConventionExtendedRule.csproj", "{3E892104-6D34-4A09-B0D4-34B2CFBFA54B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -83,6 +85,10 @@ Global
 		{0ECF43F0-FB38-417B-8E22-912F20DFEB37}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0ECF43F0-FB38-417B-8E22-912F20DFEB37}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0ECF43F0-FB38-417B-8E22-912F20DFEB37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E892104-6D34-4A09-B0D4-34B2CFBFA54B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E892104-6D34-4A09-B0D4-34B2CFBFA54B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E892104-6D34-4A09-B0D4-34B2CFBFA54B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E892104-6D34-4A09-B0D4-34B2CFBFA54B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -96,6 +102,7 @@ Global
 		{72D56532-03C5-4218-AF23-E574BD03875E} = {DE26EF41-449C-4543-91BC-91DDFB834D17}
 		{61638E55-F631-4C95-A096-AB511402F52A} = {DE26EF41-449C-4543-91BC-91DDFB834D17}
 		{0ECF43F0-FB38-417B-8E22-912F20DFEB37} = {DE26EF41-449C-4543-91BC-91DDFB834D17}
+		{3E892104-6D34-4A09-B0D4-34B2CFBFA54B} = {DE26EF41-449C-4543-91BC-91DDFB834D17}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A295AB7B-5462-4471-B649-005C3690FA8D}

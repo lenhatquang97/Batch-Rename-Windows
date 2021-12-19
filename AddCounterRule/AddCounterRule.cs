@@ -35,7 +35,6 @@ namespace AddCounterRule
             }
             else
             {
-                Debug.WriteLine(PatternInUI);
                 String[] splitVal = PatternInUI.Split('?');
                 uc = new AddCounterRuleDialog(splitVal[0], splitVal[1]);
             }

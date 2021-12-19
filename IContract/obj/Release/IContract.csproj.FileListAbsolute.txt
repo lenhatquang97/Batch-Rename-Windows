@@ -1,0 +1,8 @@
+E:\source\repos\IContract\bin\Release\IContract.dll.config
+E:\source\repos\IContract\bin\Release\IContract.dll
+E:\source\repos\IContract\bin\Release\IContract.pdb
+E:\source\repos\IContract\obj\Release\IContract.csproj.AssemblyReference.cache
+E:\source\repos\IContract\obj\Release\IContract.csproj.CoreCompileInputs.cache
+E:\source\repos\IContract\obj\Release\IContract.csproj.Fody.CopyLocal.cache
+E:\source\repos\IContract\obj\Release\IContract.dll
+E:\source\repos\IContract\obj\Release\IContract.pdb

@@ -1,0 +1,16 @@
+E:\source\repos\JsonLogic\bin\Release\JsonLogic.dll.config
+E:\source\repos\JsonLogic\bin\Release\JsonLogic.dll
+E:\source\repos\JsonLogic\bin\Release\JsonLogic.pdb
+E:\source\repos\JsonLogic\bin\Release\IContract.dll
+E:\source\repos\JsonLogic\bin\Release\JsonDao.dll
+E:\source\repos\JsonLogic\bin\Release\Newtonsoft.Json.dll
+E:\source\repos\JsonLogic\bin\Release\IContract.pdb
+E:\source\repos\JsonLogic\bin\Release\IContract.dll.config
+E:\source\repos\JsonLogic\bin\Release\JsonDao.pdb
+E:\source\repos\JsonLogic\bin\Release\JsonDao.dll.config
+E:\source\repos\JsonLogic\bin\Release\Newtonsoft.Json.xml
+E:\source\repos\JsonLogic\obj\Release\JsonLogic.csproj.AssemblyReference.cache
+E:\source\repos\JsonLogic\obj\Release\JsonLogic.csproj.CoreCompileInputs.cache
+E:\source\repos\JsonLogic\obj\Release\JsonLogic.csproj.CopyComplete
+E:\source\repos\JsonLogic\obj\Release\JsonLogic.dll
+E:\source\repos\JsonLogic\obj\Release\JsonLogic.pdb

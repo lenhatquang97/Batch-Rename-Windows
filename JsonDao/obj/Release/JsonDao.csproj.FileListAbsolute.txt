@@ -1,0 +1,13 @@
+E:\source\repos\JsonDao\bin\Release\JsonDao.dll.config
+E:\source\repos\JsonDao\bin\Release\JsonDao.dll
+E:\source\repos\JsonDao\bin\Release\JsonDao.pdb
+E:\source\repos\JsonDao\bin\Release\IContract.dll
+E:\source\repos\JsonDao\bin\Release\Newtonsoft.Json.dll
+E:\source\repos\JsonDao\bin\Release\IContract.pdb
+E:\source\repos\JsonDao\bin\Release\IContract.dll.config
+E:\source\repos\JsonDao\bin\Release\Newtonsoft.Json.xml
+E:\source\repos\JsonDao\obj\Release\JsonDao.csproj.AssemblyReference.cache
+E:\source\repos\JsonDao\obj\Release\JsonDao.csproj.CoreCompileInputs.cache
+E:\source\repos\JsonDao\obj\Release\JsonDao.csproj.CopyComplete
+E:\source\repos\JsonDao\obj\Release\JsonDao.dll
+E:\source\repos\JsonDao\obj\Release\JsonDao.pdb
